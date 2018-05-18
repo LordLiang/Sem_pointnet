@@ -1,2 +1,2 @@
 # Sem_pointnet
-semantic segmentation of 3D point clound
+semantic segmentation of 3D point cloud
